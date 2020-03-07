@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/globalScheduler"/>
+    <filter root="/content/globalScheduler"/>
+    <filter root="/content/dam/globalScheduler"/>
+</workspaceFilter>

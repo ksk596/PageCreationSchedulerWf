@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core
+Bundle-SymbolicName: globalScheduler.core
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.aem.community.core,
+ com.aem.community.core.filters,
+ com.aem.community.core.listeners,
+ com.aem.community.core.models,
+ com.aem.community.core.schedulers,
+ com.aem.community.core.servlets
